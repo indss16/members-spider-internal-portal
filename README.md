@@ -354,9 +354,9 @@
             <div class="nav-tab">EXCOMMS</div>
             <div class="nav-tab active">UI UX</div>
             <div class="nav-tab">Devops</div>
-            <div class="nav-tab">EXCOMMS</div>
-            <div class="nav-tab">EXCOMMS</div>
-            <div class="nav-tab">EXCOMMS</div>
+            <div class="nav-tab">Blockchain</div>
+            <div class="nav-tab">ML</div>
+            <div class="nav-tab">Cybersecurity</div>
         </div>
         
         <h2 class="section-header">UI UX</h2>
